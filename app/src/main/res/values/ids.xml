@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="welcomeText" type="id" />
+    <item name="topAppBar" type="id" />
+    <item name="donorButton" type="id" />
+    <item name="acceptorButton" type="id" />
+    <item name="toggleLayout" type="id" />
+    <item name="btnDonor" type="id" />
+    <item name="btnAcceptor" type="id" />
+    <item name="fragmentContainer" type="id" />
+    <item name="nameText" type="id" />
+    <item name="contactText" type="id" />
+    <item name="directionBtn" type="id" />
+    <item name="etLatitude" type="id" />
+    <item name="etLongitude" type="id" />
+    <item name="signup_form" type="id" />
+    <item name="editTextName" type="id" />
+    <item name="editTextPhone" type="id" />
+    <item name="spinnerBloodGroup" type="id" />
+    <item name="editTextConfirmPassword" type="id" />
+    <item name="signup_root" type="id" />
+</resources>

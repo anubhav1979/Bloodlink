@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "892686735547",
+    "project_id": "bloodlink-bf310",
+    "storage_bucket": "bloodlink-bf310.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:892686735547:android:300a3ef620e2f036eb719e",
+        "android_client_info": {
+          "package_name": "com.example.blood"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdWuYpZT793dsFld2qVApf3eXjzGYbpc8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:892686735547:android:6c6c600de99b3eabeb719e",
+        "android_client_info": {
+          "package_name": "com.example.bloodlink"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdWuYpZT793dsFld2qVApf3eXjzGYbpc8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
